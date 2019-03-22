@@ -1,5 +1,7 @@
 #write your code here
 
 def countdown(count)
-  count
+  until count==o
+    puts "#{count} SECOND(S)!"
+  end
 end
