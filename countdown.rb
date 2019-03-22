@@ -3,5 +3,6 @@
 def countdown(count)
   until count==o
     puts "#{count} SECOND(S)!"
+    count-=1
   end
 end
